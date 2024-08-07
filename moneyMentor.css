@@ -1,0 +1,101 @@
+body{
+  font-family: 'Yu Gothic';
+  background-color: black;
+  color: lightgreen;
+}
+.centered-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.display-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.display-row{
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.month-salary{
+  margin-right: 45px;
+}
+
+.month-salary-title{
+  margin-right: 500px;
+}
+
+.real-time-money{
+  margin-right: 25px;
+}
+.real-time-money-title{
+  margin-right: 25px;
+}
+
+.input-salary-style{
+  background-color: lightgreen;
+  color: black;
+  text-color: black;
+  padding: 15px;
+  border-color: darkgreen;
+  
+}
+
+.input-account-style{
+  background-color: lightgreen;
+  color: black;
+  text-color: black;
+  padding: 15px;
+  border-color: darkgreen;
+}
+
+.input-purchase-style{
+  background-color: lightgreen;
+  color: black;
+  text-color: black;
+  padding: 15px;
+  border-color: darkgreen;
+  
+}
+
+
+.button-mercado{
+
+  margin-right: 30px;
+}
+
+.button-cigarros{
+  margin-rigth: 20px;
+}
+
+.button-roupas{
+  margin-bottom: 20px;
+}
+
+.button-ifood{
+  margin-bottom: 20px;
+}
+
+.button-bebidas{
+  margin-bottom: 20px;
+}
+
+.button-uber{
+  margin-bottom: 20px;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.mercado-message{
+  margin-right: 15px;
+}
